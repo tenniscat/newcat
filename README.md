@@ -1,2 +1,4 @@
 # newcat
-test
+txt
+druid
+rouge
